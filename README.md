@@ -11,7 +11,7 @@ dataset for black-box attacks (88 MB).
 Both normal and adversarial examples are included and each dataset contains equal number of normal and adversarial examples. The dataset for white-box attacks was built upon the Mozilla Common Voice dataset [2] and the dataset for black-box attacks was built upon the Google Speech Command dataset [3]. Both the Mozilla Common Voice dataset and the Google Speech Command dataset are under the Creative Commons license, so are the adversarial datasets. 
 
 Source code: 
-Source code for adversarial attack detection based on convolutional neural networks is available here: source code in Python. 
+Source code for adversarial attack detection based on convolutional neural networks is available here: [source code in Python](/adversarial_trainA_testA.py). 
 
 Citations:
 
