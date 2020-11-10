@@ -1,6 +1,6 @@
 ## This file contains the code written and used for the experiments of the following paper:
 #
-# Saeid Samizade, Zheng-Hua Tan, Chao Shen and Xiaohong Guan, “Adversarial Example Detection by Classification for Deep Speech Recognition”, arXiv preprint arXiv:1910.10013 (2019).
+# Saeid Samizade, Zheng-Hua Tan, Chao Shen and Xiaohong Guan, “Adversarial Example Detection by Classification for Deep Speech Recognition”, ICASSP 2020.
 #
 # The datasets for the experiments are available here: http://kom.aau.dk/~zt/online/adversarial_examples/
 #
