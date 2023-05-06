@@ -14,22 +14,6 @@ Both normal and adversarial examples are included and each dataset contains equa
 ## Source code: 
 Source code for adversarial attack detection based on convolutional neural networks is available here: [source code in Python](/adversarial_trainA_testA.py). 
 
-## Examples of adversarial examples:
-- normal source example "yes" [![Watch the video]](https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav)
-
-<video controls="" autoplay="" name="media">
-    <source src="[https://user.github.io/project/audio/sound.mp3](https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav)" type="audio/mp3">
-</video>
-
-<script>
-    var audio = new Audio('[https://github.com/user/project/blob/main/audio/sound.mp3](https://user.github.io/project/audio/sound.mp3](https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav)?raw=true');
-    audio.play();
-</script>
-
-<script>
-    var audio = new Audio('https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav?raw=true');
-    audio.play();
-</script>
 
 ## Citations:
 
