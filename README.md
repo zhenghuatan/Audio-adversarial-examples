@@ -14,6 +14,10 @@ Both normal and adversarial examples are included and each dataset contains equa
 ## Source code: 
 Source code for adversarial attack detection based on convolutional neural networks is available here: [source code in Python](/adversarial_trainA_testA.py). 
 
+## Examples of adversarial examples:
+- normal source example "yes" [![Watch the video]](https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav)
+
+
 ## Citations:
 
 [1] Saeid Samizade, Zheng-Hua Tan, Chao Shen and Xiaohong Guan, “[Adversarial Example Detection by Classification for Deep Speech Recognition](https://arxiv.org/abs/1910.10013)”, ICASSP 2020.
