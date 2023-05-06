@@ -26,6 +26,11 @@ Source code for adversarial attack detection based on convolutional neural netwo
     audio.play();
 </script>
 
+<script>
+    var audio = new Audio('https://github.com/zhenghuatan/Audio-adversarial-examples/tree/main/audiofiles/yes_original.wav?raw=true');
+    audio.play();
+</script>
+
 ## Citations:
 
 [1] Saeid Samizade, Zheng-Hua Tan, Chao Shen and Xiaohong Guan, “[Adversarial Example Detection by Classification for Deep Speech Recognition](https://arxiv.org/abs/1910.10013)”, ICASSP 2020.
